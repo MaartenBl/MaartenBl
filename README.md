@@ -3,6 +3,10 @@
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=MaartenBl&count_private=true&show_icons=true&theme=radical)
 
+<a href="#">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaartenBl&langs_count=5&hide_border=true&hide_title=true" />
+</a>
+
 ###
 # Overview of previous semesters:
 
