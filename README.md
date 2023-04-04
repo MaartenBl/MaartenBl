@@ -3,7 +3,7 @@
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=MaartenBl&count_private=true&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaartenBl)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaartenBl&count_private=true&show_icons=true&theme=radical&langs_count=10&hide_progress=true)
 
 ###
 # Overview of previous semesters:
